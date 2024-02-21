@@ -1,0 +1,37 @@
+#result{
+
+  display: none;
+  background-color: whitesmoke;
+  width: 80%;
+  text-align: center;
+  border-radius: 20px;
+}
+
+#shareResult{
+
+  background-color: whitesmoke;
+  width: 80%;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.resultDesc{
+  font-size: 20px;
+}
+
+.resultName{
+  font-size: 26px;
+}
+
+.gohome{
+  color: black;
+  background-color: lightblue;
+  font-size: 20px;
+  border-radius: 10px;
+}
+
+.gohome:hover{
+  background-color: whitesmoke;
+  color : black;
+  border-color: lightblue;
+}
